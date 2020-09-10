@@ -10,4 +10,6 @@ class Car{
   }
 }
 const mobilsaya = new Car("Xenia","Sedan");
+const mobilorang = new Car("Honda","Bus");
 mobilsaya.info();
+mobilorang.info();
